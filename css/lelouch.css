@@ -88,3 +88,10 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
