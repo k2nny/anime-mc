@@ -1,0 +1,90 @@
+body{
+	margin: 0;
+	font-family: 'Pathway Gothic One', sans-serif;
+	line-height: 30px;
+	font-size: 25px;
+}
+
+header{
+	background-color: #410855;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+h1, h2{
+font-family: 'Pathway Gothic One', sans-serif;
+color: antiquewhite;
+}
+
+header h1{
+	
+	font-size: 70px;
+
+}
+
+header img{
+	border-radius: 130px;
+	width: 300px;
+	height: 220px;
+	border: 5px solid #f1b9ff;
+}
+
+/*Stopping here at 11min 20 secs into vid. Will contine onto Main edit next*/
+
+main{
+	max-width: 5000px;
+	margin: 0 ;
+	color: #6e3382;
+	padding: 30px 50px;
+	background-color: black;
+
+
+}
+
+main img {max-width: 100%;
+
+}
+
+
+h2 {font-size: 50px;
+	margin-top: 0;
+
+
+}
+
+a{
+	color: #6e3382;
+}
+	a:hover{
+		color: antiquewhite;
+		background-color: #410855;
+		opacity: .5;
+	}
+
+footer{
+	background-color: #410855;
+	text-align: center;
+	color: antiquewhite;
+	padding: 50px;
+	font-size: 30px;
+}
+
+	footer p{
+		margin: 0;
+	}
+
+	footer a{
+		color: antiquewhite;
+	}
+
+	footer a:hover{
+		opacity: .5;
+		background-color: transparent;
+	}
+
+p.caption{
+	color: mediumpurple;
+	font-style: italic;
+	margin-top: 0;
+}
